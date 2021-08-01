@@ -21,15 +21,6 @@ p{
     color: #8f8f8f;
 }
 
-@media (max-width: 1028px){
-    #title{
-        text-align: center;
-    }
-    .title-image{
-        position: static;
-        transform: rotate(0deg);
-    }
-}
 
 /* Headings */
 
@@ -141,6 +132,17 @@ p{
 .pricing-column{
     padding: 3% 2%;
 }
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0deg);
+    }
+}
+
    
     /* Call to Action */
 
