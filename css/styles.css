@@ -133,7 +133,7 @@ p{
     padding: 3% 2%;
 }
 
-@media (max-width: 1028px){
+@media (max-width: 1000px){
     #title{
         text-align: center;
     }
